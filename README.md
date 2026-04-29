@@ -9,7 +9,7 @@ Static legal page for CookGPT HarmonyOS listing review.
 
 ## GitHub Pages
 
-Use GitHub Pages with source set to the `main` branch root. The public URL should be:
+The repository includes `.github/workflows/pages.yml`, which deploys the repository root to GitHub Pages whenever `main` is updated. If Pages is configured manually instead, use source `main` branch root. The public URL should be:
 
 `https://tomkuku588-bot.github.io/CookGPT/`
 
