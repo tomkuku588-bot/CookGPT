@@ -18,8 +18,6 @@ Recommended GitHub Pages setting:
 3. Select branch `gh-pages` and folder `/ (root)`.
 4. Save the setting and wait for the Pages deployment to complete.
 
-The repository also includes `.github/workflows/pages.yml` for GitHub Actions based deployment. If you prefer that mode, set the Pages source to `GitHub Actions` and rerun the workflow.
-
 The public URL should be:
 
 `https://tomkuku588-bot.github.io/CookGPT/`
